@@ -7,3 +7,7 @@
 	path = giscoR
 	url = https://github.com/dieghernan/giscor
 	shallow = true
+[submodule "igoR"]
+	path = igoR
+	url = https://github.com/dieghernan/igor
+	shallow = true
