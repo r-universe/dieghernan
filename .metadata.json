@@ -1,0 +1,10 @@
+[
+  {
+    "package": "giscoR",
+    "oncran": true
+  },
+  {
+    "package": "igoR",
+    "oncran": true
+  }
+]

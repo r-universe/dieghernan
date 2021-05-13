@@ -8,10 +8,8 @@
 	url = https://github.com/dieghernan/giscor
 	shallow = true
 	registered = true
-	oncran = true
 [submodule "igoR"]
 	path = igoR
 	url = https://github.com/dieghernan/igor
 	shallow = true
 	registered = true
-	oncran = true
