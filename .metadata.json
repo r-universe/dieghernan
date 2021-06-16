@@ -1,27 +1,18 @@
 [
   {
-    "package": "CatastRo"
+    "package": "giscoR",
+    "oncran": true
   },
   {
-    "package": "BOE"
+    "package": "mapSpain",
+    "oncran": true
   },
   {
-    "package": "senadoRES"
+    "package": "igoR",
+    "oncran": true
   },
   {
-    "package": "opendataes"
-  },
-  {
-    "package": "MicroDatosEs",
-    "oncran": false
-  },
-  {
-    "package": "istacbaser"
-  },
-  {
-    "package": "Siane"
-  },
-  {
-    "package": "caRtociudad"
+    "package": "tidyBdE",
+    "oncran": true
   }
 ]

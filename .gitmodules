@@ -3,43 +3,23 @@
 	url = https://github.com/dieghernan/universe
 	shallow = true
 	branch = HEAD
-[submodule "CatastRo"]
-	path = CatastRo
-	url = https://github.com/rOpenSpain/CatastRo
+[submodule "giscoR"]
+	path = giscoR
+	url = https://github.com/dieghernan/giscoR
 	shallow = true
 	registered = true
-[submodule "BOE"]
-	path = BOE
-	url = https://github.com/rOpenSpain/BOE
+[submodule "mapSpain"]
+	path = mapSpain
+	url = https://github.com/rOpenSpain/mapSpain
 	shallow = true
 	registered = true
-[submodule "senadoRES"]
-	path = senadoRES
-	url = https://github.com/rOpenSpain/senadoRES
+[submodule "igoR"]
+	path = igoR
+	url = https://github.com/dieghernan/igoR
 	shallow = true
 	registered = true
-[submodule "opendataes"]
-	path = opendataes
-	url = https://github.com/rOpenSpain/opendataes
-	shallow = true
-	registered = true
-[submodule "MicroDatosEs"]
-	path = MicroDatosEs
-	url = https://github.com/rOpenSpain/MicroDatosEs
-	shallow = true
-	registered = true
-[submodule "istacbaser"]
-	path = istacbaser
-	url = https://github.com/rOpenSpain/istacbaser
-	shallow = true
-	registered = true
-[submodule "Siane"]
-	path = Siane
-	url = https://github.com/rOpenSpain/Siane
-	shallow = true
-	registered = true
-[submodule "caRtociudad"]
-	path = caRtociudad
-	url = https://github.com/rOpenSpain/caRtociudad
+[submodule "tidyBdE"]
+	path = tidyBdE
+	url = https://github.com/rOpenSpain/tidyBdE
 	shallow = true
 	registered = true
