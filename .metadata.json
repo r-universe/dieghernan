@@ -8,6 +8,9 @@
     "oncran": true
   },
   {
+    "package": "rostemplate"
+  },
+  {
     "package": "mapSpain",
     "oncran": true
   },
