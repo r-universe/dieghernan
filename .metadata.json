@@ -1,6 +1,10 @@
 [
   {
-    "package": "giscoR",
+    "package": "climaemet",
+    "oncran": false
+  },
+  {
+    "package": "tidyBdE",
     "oncran": true
   },
   {
@@ -8,11 +12,42 @@
     "oncran": true
   },
   {
-    "package": "igoR",
-    "oncran": true
+    "package": "MorbiditySpainR"
   },
   {
-    "package": "tidyBdE",
-    "oncran": true
+    "package": "senadoRES"
+  },
+  {
+    "package": "LAU2boundaries4spain"
+  },
+  {
+    "package": "airqualityES",
+    "oncran": false
+  },
+  {
+    "package": "BOE"
+  },
+  {
+    "package": "spanish",
+    "oncran": false
+  },
+  {
+    "package": "istacbaser"
+  },
+  {
+    "package": "caRtociudad"
+  },
+  {
+    "package": "Siane"
+  },
+  {
+    "package": "MicroDatosEs",
+    "oncran": false
+  },
+  {
+    "package": "CatastRo"
+  },
+  {
+    "package": "opendataes"
   }
 ]
