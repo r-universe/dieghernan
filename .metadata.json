@@ -12,6 +12,9 @@
     "oncran": true
   },
   {
+    "package": "geocoderlite"
+  },
+  {
     "package": "tidyBdE",
     "oncran": true
   }

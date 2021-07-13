@@ -18,6 +18,11 @@
 	url = https://github.com/dieghernan/igoR
 	shallow = true
 	registered = true
+[submodule "geocoderlite"]
+	path = geocoderlite
+	url = https://github.com/dieghernan/geocoderlite
+	shallow = true
+	registered = true
 [submodule "tidyBdE"]
 	path = tidyBdE
 	url = https://github.com/rOpenSpain/tidyBdE
