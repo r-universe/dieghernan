@@ -17,5 +17,12 @@
   {
     "package": "tidyBdE",
     "oncran": true
+  },
+  {
+    "package": "rostemplate"
+  },
+  {
+    "package": "climaemet",
+    "oncran": true
   }
 ]

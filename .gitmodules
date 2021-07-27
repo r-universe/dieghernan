@@ -28,3 +28,13 @@
 	url = https://github.com/rOpenSpain/tidyBdE
 	shallow = true
 	registered = true
+[submodule "rostemplate"]
+	path = rostemplate
+	url = https://github.com/rOpenSpain/rostemplate
+	shallow = true
+	registered = true
+[submodule "climaemet"]
+	path = climaemet
+	url = https://github.com/rOpenSpain/climaemet
+	shallow = true
+	registered = true
