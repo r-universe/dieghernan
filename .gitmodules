@@ -23,6 +23,11 @@
 	url = https://github.com/dieghernan/nominatimlite
 	shallow = true
 	registered = true
+[submodule "pkgdev"]
+	path = pkgdev
+	url = https://github.com/dieghernan/pkgdev
+	shallow = true
+	registered = true
 [submodule "tidyBdE"]
 	path = tidyBdE
 	url = https://github.com/rOpenSpain/tidyBdE

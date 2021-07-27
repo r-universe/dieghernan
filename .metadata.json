@@ -15,6 +15,9 @@
     "package": "nominatimlite"
   },
   {
+    "package": "pkgdev"
+  },
+  {
     "package": "tidyBdE",
     "oncran": true
   },
