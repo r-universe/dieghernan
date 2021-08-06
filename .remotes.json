@@ -1,7 +1,7 @@
 [
   {
-    "package": "codemetar",
-    "url": "https://github.com/ropensci/codemetar",
+    "package": "codemeta",
+    "url": "https://github.com/cboettig/codemeta",
     "via": ["pkgdev"],
     "from": "pkgdev"
   }

@@ -43,8 +43,8 @@
 	url = https://github.com/rOpenSpain/climaemet
 	shallow = true
 	registered = true
-[submodule "codemetar"]
-	path = codemetar
-	url = https://github.com/ropensci/codemetar
+[submodule "codemeta"]
+	path = codemeta
+	url = https://github.com/cboettig/codemeta
 	shallow = true
 	registered = false
