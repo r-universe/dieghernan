@@ -45,6 +45,6 @@
 	registered = true
 [submodule "codemeta"]
 	path = codemeta
-	url = https://github.com/dieghernan/codemeta
+	url = https://github.com/cboettig/codemeta
 	shallow = true
 	registered = false
