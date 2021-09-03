@@ -27,5 +27,8 @@
   {
     "package": "climaemet",
     "oncran": true
+  },
+  {
+    "package": "cffr"
   }
 ]
