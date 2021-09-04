@@ -6,6 +6,12 @@
     "from": "pkgdev"
   },
   {
+    "package": "codemeta",
+    "url": "https://github.com/dieghernan/codemeta",
+    "via": ["pkgdev"],
+    "from": "pkgdev"
+  },
+  {
     "package": "codemetar",
     "url": "https://github.com/dieghernan/codemetar",
     "via": ["pkgdev"],
