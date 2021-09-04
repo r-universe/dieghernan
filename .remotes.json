@@ -6,8 +6,8 @@
     "from": "pkgdev"
   },
   {
-    "package": "codemeta",
-    "url": "https://github.com/dieghernan/codemeta",
+    "package": "codemetar",
+    "url": "https://github.com/dieghernan/codemetar",
     "via": ["pkgdev"],
     "from": "pkgdev"
   }
