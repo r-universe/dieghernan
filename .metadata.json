@@ -1,7 +1,7 @@
 [
   {
     "package": "giscoR",
-    "oncran": true
+    "oncran": false
   },
   {
     "package": "mapSpain",
