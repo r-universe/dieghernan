@@ -1,0 +1,14 @@
+[
+  {
+    "package": "cffr",
+    "url": "https://github.com/dieghernan/cffr",
+    "via": ["pkgdev"],
+    "from": "pkgdev"
+  },
+  {
+    "package": "codemeta",
+    "url": "https://github.com/dieghernan/codemeta",
+    "via": ["pkgdev"],
+    "from": "pkgdev"
+  }
+]
