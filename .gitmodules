@@ -13,6 +13,36 @@
 	url = https://github.com/rOpenSpain/mapSpain
 	shallow = true
 	registered = true
+[submodule "igoR"]
+	path = igoR
+	url = https://github.com/dieghernan/igoR
+	shallow = true
+	registered = true
+[submodule "nominatimlite"]
+	path = nominatimlite
+	url = https://github.com/dieghernan/nominatimlite
+	shallow = true
+	registered = true
+[submodule "pkgdev"]
+	path = pkgdev
+	url = https://github.com/dieghernan/pkgdev
+	shallow = true
+	registered = true
+[submodule "tidyBdE"]
+	path = tidyBdE
+	url = https://github.com/rOpenSpain/tidyBdE
+	shallow = true
+	registered = true
+[submodule "rostemplate"]
+	path = rostemplate
+	url = https://github.com/rOpenSpain/rostemplate
+	shallow = true
+	registered = true
+[submodule "climaemet"]
+	path = climaemet
+	url = https://github.com/rOpenSpain/climaemet
+	shallow = true
+	registered = true
 [submodule "cffr"]
 	path = cffr
 	url = https://github.com/dieghernan/cffr

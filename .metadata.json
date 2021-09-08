@@ -8,6 +8,27 @@
     "oncran": true
   },
   {
+    "package": "igoR",
+    "oncran": true
+  },
+  {
+    "package": "nominatimlite"
+  },
+  {
+    "package": "pkgdev"
+  },
+  {
+    "package": "tidyBdE",
+    "oncran": true
+  },
+  {
+    "package": "rostemplate"
+  },
+  {
+    "package": "climaemet",
+    "oncran": true
+  },
+  {
     "package": "cffr"
   }
 ]
