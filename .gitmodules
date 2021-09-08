@@ -18,8 +18,3 @@
 	url = https://github.com/dieghernan/cffr
 	shallow = true
 	registered = true
-[submodule "codemeta"]
-	path = codemeta
-	url = https://github.com/dieghernan/codemeta
-	shallow = true
-	registered = false
