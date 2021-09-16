@@ -12,7 +12,8 @@
     "oncran": true
   },
   {
-    "package": "nominatimlite"
+    "package": "nominatimlite",
+    "oncran": false
   },
   {
     "package": "pkgdev"
