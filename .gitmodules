@@ -8,11 +8,6 @@
 	url = https://github.com/rOpenGov/giscoR
 	shallow = true
 	registered = true
-[submodule "rogtemplate"]
-	path = rogtemplate
-	url = https://github.com/rOpenGov/rogtemplate
-	shallow = true
-	registered = true
 [submodule "mapSpain"]
 	path = mapSpain
 	url = https://github.com/rOpenSpain/mapSpain
@@ -26,11 +21,6 @@
 [submodule "nominatimlite"]
 	path = nominatimlite
 	url = https://github.com/dieghernan/nominatimlite
-	shallow = true
-	registered = true
-[submodule "pkgdev"]
-	path = pkgdev
-	url = https://github.com/dieghernan/pkgdev
 	shallow = true
 	registered = true
 [submodule "tidyBdE"]
