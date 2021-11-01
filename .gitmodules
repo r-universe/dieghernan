@@ -50,7 +50,7 @@
 	registered = true
 [submodule "cffr"]
 	path = cffr
-	url = https://github.com/dieghernan/cffr
+	url = https://github.com/ropensci/cffr
 	shallow = true
 	registered = true
 [submodule "codemeta"]
