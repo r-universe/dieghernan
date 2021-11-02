@@ -1,7 +1,7 @@
 [
   {
     "package": "cffr",
-    "url": "https://github.com/dieghernan/cffr",
+    "url": "https://github.com/ropensci/cffr",
     "via": ["pkgdev"],
     "from": "pkgdev"
   },
