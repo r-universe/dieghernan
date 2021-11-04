@@ -33,6 +33,7 @@
     "oncran": true
   },
   {
-    "package": "cffr"
+    "package": "cffr",
+    "oncran": false
   }
 ]
