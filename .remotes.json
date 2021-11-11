@@ -1,11 +1,5 @@
 [
   {
-    "package": "cffr",
-    "url": "https://github.com/ropensci/cffr",
-    "via": ["pkgdev"],
-    "from": "pkgdev"
-  },
-  {
     "package": "codemeta",
     "url": "https://github.com/cboettig/codemeta",
     "via": ["pkgdev"],
