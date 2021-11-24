@@ -29,6 +29,10 @@
     "package": "rostemplate"
   },
   {
+    "package": "ggspatial",
+    "oncran": true
+  },
+  {
     "package": "climaemet",
     "oncran": true
   },

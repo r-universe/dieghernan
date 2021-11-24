@@ -43,6 +43,11 @@
 	url = https://github.com/rOpenSpain/rostemplate
 	shallow = true
 	registered = true
+[submodule "ggspatial"]
+	path = ggspatial
+	url = https://github.com/paleolimbot/ggspatial
+	shallow = true
+	registered = true
 [submodule "climaemet"]
 	path = climaemet
 	url = https://github.com/rOpenSpain/climaemet
