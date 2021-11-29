@@ -48,6 +48,11 @@
 	url = https://github.com/paleolimbot/ggspatial
 	shallow = true
 	registered = true
+[submodule "tidygeocoder"]
+	path = tidygeocoder
+	url = https://github.com/jessecambon/tidygeocoder
+	shallow = true
+	registered = true
 [submodule "climaemet"]
 	path = climaemet
 	url = https://github.com/rOpenSpain/climaemet

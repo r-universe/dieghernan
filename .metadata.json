@@ -33,6 +33,10 @@
     "oncran": true
   },
   {
+    "package": "tidygeocoder",
+    "oncran": true
+  },
+  {
     "package": "climaemet",
     "oncran": true
   },
