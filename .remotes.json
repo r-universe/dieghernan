@@ -1,0 +1,20 @@
+[
+  {
+    "package": "cssparser",
+    "url": "https://github.com/coolbutuseless/cssparser",
+    "via": ["svgparser"],
+    "from": "svgparser"
+  },
+  {
+    "package": "gggrid",
+    "url": "https://github.com/pmur002/gggrid",
+    "via": ["svgparser"],
+    "from": "svgparser"
+  },
+  {
+    "package": "minisvg",
+    "url": "https://github.com/coolbutuseless/minisvg",
+    "via": ["svgparser"],
+    "from": "svgparser"
+  }
+]
