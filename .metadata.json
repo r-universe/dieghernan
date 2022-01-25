@@ -19,6 +19,9 @@
     "oncran": true
   },
   {
+    "package": "rasterpic"
+  },
+  {
     "package": "pkgdev"
   },
   {
