@@ -20,7 +20,7 @@
   },
   {
     "package": "rasterpic",
-    "oncran": false
+    "oncran": true
   },
   {
     "package": "pkgdev"
