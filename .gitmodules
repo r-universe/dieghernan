@@ -68,3 +68,8 @@
 	url = https://github.com/ropensci/cffr
 	shallow = true
 	registered = true
+[submodule "mapasenr"]
+	path = mapasenr
+	url = https://github.com/dieghernan/mapasenR
+	shallow = true
+	registered = true

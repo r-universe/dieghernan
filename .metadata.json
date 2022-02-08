@@ -47,5 +47,8 @@
   {
     "package": "cffr",
     "oncran": true
+  },
+  {
+    "package": "mapasenr"
   }
 ]
