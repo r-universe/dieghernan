@@ -41,6 +41,9 @@
     "oncran": true
   },
   {
+    "package": "CatastRo"
+  },
+  {
     "package": "climaemet",
     "oncran": true
   },

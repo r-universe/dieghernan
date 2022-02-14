@@ -58,6 +58,11 @@
 	url = https://github.com/jessecambon/tidygeocoder
 	shallow = true
 	registered = true
+[submodule "CatastRo"]
+	path = CatastRo
+	url = https://github.com/rOpenSpain/CatastRo
+	shallow = true
+	registered = true
 [submodule "climaemet"]
 	path = climaemet
 	url = https://github.com/rOpenSpain/climaemet
