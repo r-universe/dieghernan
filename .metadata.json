@@ -23,6 +23,9 @@
     "oncran": true
   },
   {
+    "package": "tidyterra"
+  },
+  {
     "package": "pkgdev"
   },
   {

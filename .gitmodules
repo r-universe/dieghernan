@@ -33,6 +33,11 @@
 	url = https://github.com/dieghernan/rasterpic
 	shallow = true
 	registered = true
+[submodule "tidyterra"]
+	path = tidyterra
+	url = https://github.com/dieghernan/tidyterra
+	shallow = true
+	registered = true
 [submodule "pkgdev"]
 	path = pkgdev
 	url = https://github.com/dieghernan/pkgdev
