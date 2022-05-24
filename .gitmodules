@@ -53,16 +53,6 @@
 	url = https://github.com/rOpenSpain/rostemplate
 	shallow = true
 	registered = true
-[submodule "ggspatial"]
-	path = ggspatial
-	url = https://github.com/paleolimbot/ggspatial
-	shallow = true
-	registered = true
-[submodule "tidygeocoder"]
-	path = tidygeocoder
-	url = https://github.com/jessecambon/tidygeocoder
-	shallow = true
-	registered = true
 [submodule "CatastRo"]
 	path = CatastRo
 	url = https://github.com/rOpenSpain/CatastRo

@@ -37,14 +37,6 @@
     "package": "rostemplate"
   },
   {
-    "package": "ggspatial",
-    "oncran": true
-  },
-  {
-    "package": "tidygeocoder",
-    "oncran": true
-  },
-  {
     "package": "CatastRo",
     "oncran": true
   },
