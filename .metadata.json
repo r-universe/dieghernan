@@ -24,7 +24,7 @@
   },
   {
     "package": "tidyterra",
-    "oncran": false
+    "oncran": true
   },
   {
     "package": "pkgdev"
