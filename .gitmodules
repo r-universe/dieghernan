@@ -68,8 +68,3 @@
 	url = https://github.com/ropensci/cffr
 	shallow = true
 	registered = true
-[submodule "goodpractice"]
-	path = goodpractice
-	url = https://github.com/MangoTheCat/goodpractice
-	shallow = true
-	registered = false
