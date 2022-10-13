@@ -23,7 +23,8 @@
     "oncran": true
   },
   {
-    "package": "tidyterra"
+    "package": "tidyterra",
+    "oncran": true
   },
   {
     "package": "pkgdev"
