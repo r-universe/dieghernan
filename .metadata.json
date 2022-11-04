@@ -47,5 +47,18 @@
   {
     "package": "cffr",
     "oncran": true
+  },
+  {
+    "package": "gggrid",
+    "oncran": true
+  },
+  {
+    "package": "minisvg"
+  },
+  {
+    "package": "cssparser"
+  },
+  {
+    "package": "svgparser"
   }
 ]
