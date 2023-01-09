@@ -73,18 +73,3 @@
 	url = https://github.com/wmgeolab/rgeoboundaries
 	shallow = true
 	registered = true
-[submodule "cssparser"]
-	path = cssparser
-	url = https://github.com/coolbutuseless/cssparser
-	shallow = true
-	registered = false
-[submodule "gggrid"]
-	path = gggrid
-	url = https://github.com/pmur002/gggrid
-	shallow = true
-	registered = false
-[submodule "minisvg"]
-	path = minisvg
-	url = https://github.com/coolbutuseless/minisvg
-	shallow = true
-	registered = false
