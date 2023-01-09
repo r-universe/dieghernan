@@ -68,23 +68,23 @@
 	url = https://github.com/ropensci/cffr
 	shallow = true
 	registered = true
-[submodule "gggrid"]
-	path = gggrid
-	url = https://github.com/pmur002/gggrid
-	shallow = true
-	registered = true
-[submodule "minisvg"]
-	path = minisvg
-	url = https://github.com/coolbutuseless/minisvg
+[submodule "rgeoboundaries"]
+	path = rgeoboundaries
+	url = https://github.com/wmgeolab/rgeoboundaries
 	shallow = true
 	registered = true
 [submodule "cssparser"]
 	path = cssparser
 	url = https://github.com/coolbutuseless/cssparser
 	shallow = true
-	registered = true
-[submodule "svgparser"]
-	path = svgparser
-	url = https://github.com/coolbutuseless/svgparser
+	registered = false
+[submodule "gggrid"]
+	path = gggrid
+	url = https://github.com/pmur002/gggrid
 	shallow = true
-	registered = true
+	registered = false
+[submodule "minisvg"]
+	path = minisvg
+	url = https://github.com/coolbutuseless/minisvg
+	shallow = true
+	registered = false
