@@ -1,52 +1,42 @@
 [
   {
-    "package": "giscoR",
-    "oncran": true
+    "package": "giscoR"
   },
   {
     "package": "rogtemplate"
   },
   {
-    "package": "mapSpain",
-    "oncran": true
+    "package": "mapSpain"
   },
   {
-    "package": "igoR",
-    "oncran": true
+    "package": "igoR"
   },
   {
-    "package": "nominatimlite",
-    "oncran": true
+    "package": "nominatimlite"
   },
   {
-    "package": "rasterpic",
-    "oncran": true
+    "package": "rasterpic"
   },
   {
-    "package": "tidyterra",
-    "oncran": true
+    "package": "tidyterra"
   },
   {
     "package": "pkgdev"
   },
   {
-    "package": "tidyBdE",
-    "oncran": true
+    "package": "tidyBdE"
   },
   {
     "package": "rostemplate"
   },
   {
-    "package": "CatastRo",
-    "oncran": true
+    "package": "CatastRo"
   },
   {
-    "package": "climaemet",
-    "oncran": true
+    "package": "climaemet"
   },
   {
-    "package": "cffr",
-    "oncran": true
+    "package": "cffr"
   },
   {
     "package": "rgeoboundaries"
