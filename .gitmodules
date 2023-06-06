@@ -68,3 +68,8 @@
 	url = https://github.com/ropensci/cffr
 	shallow = true
 	registered = true
+[submodule "bbplot"]
+	path = bbplot
+	url = https://github.com/bbc/bbplot
+	shallow = true
+	registered = true
