@@ -68,6 +68,11 @@
 	url = https://github.com/ropensci/cffr
 	shallow = true
 	registered = true
+[submodule "gitdevr"]
+	path = gitdevr
+	url = https://github.com/dieghernan/gitdevr
+	shallow = true
+	registered = true
 [submodule "bbplot"]
 	path = bbplot
 	url = https://github.com/bbc/bbplot
