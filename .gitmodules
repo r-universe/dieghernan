@@ -1,80 +1,49 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/dieghernan/dieghernan.r-universe.dev
-	shallow = true
 	branch = HEAD
 [submodule "giscoR"]
 	path = giscoR
 	url = https://github.com/rOpenGov/giscoR
-	shallow = true
-	registered = true
 [submodule "rogtemplate"]
 	path = rogtemplate
 	url = https://github.com/rOpenGov/rogtemplate
-	shallow = true
-	registered = true
 [submodule "mapSpain"]
 	path = mapSpain
 	url = https://github.com/rOpenSpain/mapSpain
-	shallow = true
-	registered = true
 [submodule "igoR"]
 	path = igoR
 	url = https://github.com/dieghernan/igoR
-	shallow = true
-	registered = true
 [submodule "nominatimlite"]
 	path = nominatimlite
 	url = https://github.com/dieghernan/nominatimlite
-	shallow = true
-	registered = true
 [submodule "rasterpic"]
 	path = rasterpic
 	url = https://github.com/dieghernan/rasterpic
-	shallow = true
-	registered = true
 [submodule "tidyterra"]
 	path = tidyterra
 	url = https://github.com/dieghernan/tidyterra
-	shallow = true
-	registered = true
 [submodule "pkgdev"]
 	path = pkgdev
 	url = https://github.com/dieghernan/pkgdev
-	shallow = true
-	registered = true
 [submodule "tidyBdE"]
 	path = tidyBdE
 	url = https://github.com/rOpenSpain/tidyBdE
-	shallow = true
-	registered = true
 [submodule "rostemplate"]
 	path = rostemplate
 	url = https://github.com/rOpenSpain/rostemplate
-	shallow = true
-	registered = true
 [submodule "CatastRo"]
 	path = CatastRo
 	url = https://github.com/rOpenSpain/CatastRo
-	shallow = true
-	registered = true
 [submodule "climaemet"]
 	path = climaemet
 	url = https://github.com/rOpenSpain/climaemet
-	shallow = true
-	registered = true
 [submodule "cffr"]
 	path = cffr
 	url = https://github.com/ropensci/cffr
-	shallow = true
-	registered = true
 [submodule "gitdevr"]
 	path = gitdevr
 	url = https://github.com/dieghernan/gitdevr
-	shallow = true
-	registered = true
 [submodule "bbplot"]
 	path = bbplot
 	url = https://github.com/bbc/bbplot
-	shallow = true
-	registered = true
