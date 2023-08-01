@@ -2,48 +2,48 @@
 	path = .registry
 	url = https://github.com/dieghernan/dieghernan.r-universe.dev
 	branch = HEAD
-[submodule "giscoR"]
-	path = giscoR
-	url = https://github.com/rOpenGov/giscoR
-[submodule "rogtemplate"]
-	path = rogtemplate
-	url = https://github.com/rOpenGov/rogtemplate
-[submodule "mapSpain"]
-	path = mapSpain
-	url = https://github.com/rOpenSpain/mapSpain
-[submodule "igoR"]
-	path = igoR
-	url = https://github.com/dieghernan/igoR
-[submodule "nominatimlite"]
-	path = nominatimlite
-	url = https://github.com/dieghernan/nominatimlite
-[submodule "rasterpic"]
-	path = rasterpic
-	url = https://github.com/dieghernan/rasterpic
-[submodule "tidyterra"]
-	path = tidyterra
-	url = https://github.com/dieghernan/tidyterra
-[submodule "pkgdev"]
-	path = pkgdev
-	url = https://github.com/dieghernan/pkgdev
-[submodule "tidyBdE"]
-	path = tidyBdE
-	url = https://github.com/rOpenSpain/tidyBdE
-[submodule "rostemplate"]
-	path = rostemplate
-	url = https://github.com/rOpenSpain/rostemplate
 [submodule "CatastRo"]
 	path = CatastRo
 	url = https://github.com/rOpenSpain/CatastRo
-[submodule "climaemet"]
-	path = climaemet
-	url = https://github.com/rOpenSpain/climaemet
-[submodule "cffr"]
-	path = cffr
-	url = https://github.com/ropensci/cffr
-[submodule "gitdevr"]
-	path = gitdevr
-	url = https://github.com/dieghernan/gitdevr
 [submodule "bbplot"]
 	path = bbplot
 	url = https://github.com/bbc/bbplot
+[submodule "cffr"]
+	path = cffr
+	url = https://github.com/ropensci/cffr
+[submodule "climaemet"]
+	path = climaemet
+	url = https://github.com/rOpenSpain/climaemet
+[submodule "giscoR"]
+	path = giscoR
+	url = https://github.com/rOpenGov/giscoR
+[submodule "gitdevr"]
+	path = gitdevr
+	url = https://github.com/dieghernan/gitdevr
+[submodule "igoR"]
+	path = igoR
+	url = https://github.com/dieghernan/igoR
+[submodule "mapSpain"]
+	path = mapSpain
+	url = https://github.com/rOpenSpain/mapSpain
+[submodule "nominatimlite"]
+	path = nominatimlite
+	url = https://github.com/dieghernan/nominatimlite
+[submodule "pkgdev"]
+	path = pkgdev
+	url = https://github.com/dieghernan/pkgdev
+[submodule "rasterpic"]
+	path = rasterpic
+	url = https://github.com/dieghernan/rasterpic
+[submodule "rogtemplate"]
+	path = rogtemplate
+	url = https://github.com/rOpenGov/rogtemplate
+[submodule "rostemplate"]
+	path = rostemplate
+	url = https://github.com/rOpenSpain/rostemplate
+[submodule "tidyBdE"]
+	path = tidyBdE
+	url = https://github.com/rOpenSpain/tidyBdE
+[submodule "tidyterra"]
+	path = tidyterra
+	url = https://github.com/dieghernan/tidyterra
