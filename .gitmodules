@@ -47,3 +47,7 @@
 [submodule "tidyterra"]
 	path = tidyterra
 	url = https://github.com/dieghernan/tidyterra
+[submodule "usethis"]
+	path = usethis
+	url = https://github.com/r-lib/usethis
+	registered = false
