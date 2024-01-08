@@ -5,6 +5,9 @@
 [submodule "CatastRo"]
 	path = CatastRo
 	url = https://github.com/rOpenSpain/CatastRo
+[submodule "arcgeocoder"]
+	path = arcgeocoder
+	url = https://github.com/dieghernan/arcgeocoder
 [submodule "bbplot"]
 	path = bbplot
 	url = https://github.com/bbc/bbplot
