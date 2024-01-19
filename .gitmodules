@@ -38,6 +38,9 @@
 [submodule "rasterpic"]
 	path = rasterpic
 	url = https://github.com/dieghernan/rasterpic
+[submodule "resmush"]
+	path = resmush
+	url = https://github.com/dieghernan/resmush
 [submodule "rogtemplate"]
 	path = rogtemplate
 	url = https://github.com/rOpenGov/rogtemplate
