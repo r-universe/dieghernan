@@ -12,6 +12,12 @@
     "from": "gitdevr"
   },
   {
+    "package": "resmush",
+    "url": "https://github.com/dieghernan/resmush",
+    "via": ["pkgdev"],
+    "from": "pkgdev"
+  },
+  {
     "package": "usethis",
     "url": "https://github.com/r-lib/usethis",
     "via": ["gitdevr", "pkgdev"],
