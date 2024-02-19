@@ -16,11 +16,5 @@
     "url": "https://github.com/r-lib/usethis",
     "via": ["gitdevr", "pkgdev"],
     "from": "gitdevr"
-  },
-  {
-    "package": "usethis",
-    "url": "https://github.com/r-lib/usethis",
-    "via": ["pkgdev"],
-    "from": "pkgdev"
   }
 ]
