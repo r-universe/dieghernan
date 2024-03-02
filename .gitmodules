@@ -8,9 +8,6 @@
 [submodule "arcgeocoder"]
 	path = arcgeocoder
 	url = https://github.com/dieghernan/arcgeocoder
-[submodule "bbplot"]
-	path = bbplot
-	url = https://github.com/bbc/bbplot
 [submodule "cffr"]
 	path = cffr
 	url = https://github.com/ropensci/cffr
@@ -35,6 +32,7 @@
 [submodule "pkgdev"]
 	path = pkgdev
 	url = https://github.com/dieghernan/pkgdev
+	registered = false
 [submodule "rasterpic"]
 	path = rasterpic
 	url = https://github.com/dieghernan/rasterpic
