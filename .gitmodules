@@ -5,15 +5,3 @@
 [submodule "giscoR"]
 	path = giscoR
 	url = https://github.com/rOpenGov/giscoR
-[submodule "gitdevr"]
-	path = gitdevr
-	url = https://github.com/dieghernan/gitdevr
-	registered = false
-[submodule "pkgdev"]
-	path = pkgdev
-	url = https://github.com/dieghernan/pkgdev
-	registered = false
-[submodule "usethis"]
-	path = usethis
-	url = https://github.com/r-lib/usethis
-	registered = false
