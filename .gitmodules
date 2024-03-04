@@ -2,6 +2,39 @@
 	path = .registry
 	url = https://github.com/dieghernan/dieghernan.r-universe.dev
 	branch = HEAD
+[submodule "CatastRo"]
+	path = CatastRo
+	url = https://github.com/rOpenSpain/CatastRo
+[submodule "arcgeocoder"]
+	path = arcgeocoder
+	url = https://github.com/dieghernan/arcgeocoder
+[submodule "cffr"]
+	path = cffr
+	url = https://github.com/ropensci/cffr
+[submodule "climaemet"]
+	path = climaemet
+	url = https://github.com/rOpenSpain/climaemet
 [submodule "giscoR"]
 	path = giscoR
 	url = https://github.com/rOpenGov/giscoR
+[submodule "igoR"]
+	path = igoR
+	url = https://github.com/dieghernan/igoR
+[submodule "mapSpain"]
+	path = mapSpain
+	url = https://github.com/rOpenSpain/mapSpain
+[submodule "nominatimlite"]
+	path = nominatimlite
+	url = https://github.com/dieghernan/nominatimlite
+[submodule "rasterpic"]
+	path = rasterpic
+	url = https://github.com/dieghernan/rasterpic
+[submodule "resmush"]
+	path = resmush
+	url = https://github.com/dieghernan/resmush
+[submodule "tidyBdE"]
+	path = tidyBdE
+	url = https://github.com/rOpenSpain/tidyBdE
+[submodule "tidyterra"]
+	path = tidyterra
+	url = https://github.com/dieghernan/tidyterra
