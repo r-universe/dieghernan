@@ -5,6 +5,9 @@
 [submodule "CatastRo"]
 	path = CatastRo
 	url = https://github.com/rOpenSpain/CatastRo
+[submodule "CatastRoNav"]
+	path = CatastRoNav
+	url = https://github.com/rOpenSpain/CatastRoNav
 [submodule "arcgeocoder"]
 	path = arcgeocoder
 	url = https://github.com/dieghernan/arcgeocoder
@@ -17,6 +20,9 @@
 [submodule "giscoR"]
 	path = giscoR
 	url = https://github.com/rOpenGov/giscoR
+[submodule "gitdevr"]
+	path = gitdevr
+	url = https://github.com/dieghernan/gitdevr
 [submodule "igoR"]
 	path = igoR
 	url = https://github.com/dieghernan/igoR
@@ -26,12 +32,21 @@
 [submodule "nominatimlite"]
 	path = nominatimlite
 	url = https://github.com/dieghernan/nominatimlite
+[submodule "pkgdev"]
+	path = pkgdev
+	url = https://github.com/dieghernan/pkgdev
 [submodule "rasterpic"]
 	path = rasterpic
 	url = https://github.com/dieghernan/rasterpic
 [submodule "resmush"]
 	path = resmush
 	url = https://github.com/dieghernan/resmush
+[submodule "rogtemplate"]
+	path = rogtemplate
+	url = https://github.com/rOpenGov/rogtemplate
+[submodule "rostemplate"]
+	path = rostemplate
+	url = https://github.com/rOpenSpain/rostemplate
 [submodule "tidyBdE"]
 	path = tidyBdE
 	url = https://github.com/rOpenSpain/tidyBdE
