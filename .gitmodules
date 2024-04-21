@@ -23,6 +23,10 @@
 [submodule "gitdevr"]
 	path = gitdevr
 	url = https://github.com/dieghernan/gitdevr
+[submodule "goodpractice"]
+	path = goodpractice
+	url = https://github.com/MangoTheCat/goodpractice
+	registered = false
 [submodule "igoR"]
 	path = igoR
 	url = https://github.com/dieghernan/igoR
