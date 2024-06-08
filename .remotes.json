@@ -12,12 +12,6 @@
     "from": "gitdevr"
   },
   {
-    "package": "goodpractice",
-    "url": "https://github.com/MangoTheCat/goodpractice",
-    "via": ["pkgdev"],
-    "from": "pkgdev"
-  },
-  {
     "package": "pkgdev",
     "url": "https://github.com/dieghernan/pkgdev",
     "via": ["gitdevr"],
