@@ -2,6 +2,12 @@
   {
     "package": "cffr",
     "url": "https://github.com/ropensci/cffr",
+    "via": ["gitdevr", "pkgdev"],
+    "from": "gitdevr"
+  },
+  {
+    "package": "cffr",
+    "url": "https://github.com/ropensci/cffr",
     "via": ["pkgdev"],
     "from": "pkgdev"
   },
