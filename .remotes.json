@@ -1,5 +1,11 @@
 [
   {
+    "package": "cffr",
+    "url": "https://github.com/ropensci/cffr",
+    "via": ["pkgdev"],
+    "from": "pkgdev"
+  },
+  {
     "package": "gitdevr",
     "url": "https://github.com/dieghernan/gitdevr",
     "via": ["pkgdev"],
