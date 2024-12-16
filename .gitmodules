@@ -26,9 +26,6 @@
 [submodule "igoR"]
 	path = igoR
 	url = https://github.com/dieghernan/igoR
-[submodule "mapSpain"]
-	path = mapSpain
-	url = https://github.com/rOpenSpain/mapSpain
 [submodule "nominatimlite"]
 	path = nominatimlite
 	url = https://github.com/dieghernan/nominatimlite
