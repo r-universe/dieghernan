@@ -8,6 +8,10 @@
 [submodule "CatastRoNav"]
 	path = CatastRoNav
 	url = https://github.com/rOpenSpain/CatastRoNav
+[submodule "allcontributors"]
+	path = allcontributors
+	url = https://github.com/dieghernan/allcontributors
+	registered = false
 [submodule "arcgeocoder"]
 	path = arcgeocoder
 	url = https://github.com/dieghernan/arcgeocoder
