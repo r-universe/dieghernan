@@ -54,6 +54,9 @@
 [submodule "tidyBdE"]
 	path = tidyBdE
 	url = https://github.com/rOpenSpain/tidyBdE
+[submodule "tidygeoboundaries"]
+	path = tidygeoboundaries
+	url = https://github.com/dieghernan/tidygeoboundaries
 [submodule "tidyterra"]
 	path = tidyterra
 	url = https://github.com/dieghernan/tidyterra
