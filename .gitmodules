@@ -21,6 +21,9 @@
 [submodule "climaemet"]
 	path = climaemet
 	url = https://github.com/rOpenSpain/climaemet
+[submodule "geobounds"]
+	path = geobounds
+	url = https://github.com/dieghernan/geobounds
 [submodule "giscoR"]
 	path = giscoR
 	url = https://github.com/rOpenGov/giscoR
@@ -54,9 +57,6 @@
 [submodule "tidyBdE"]
 	path = tidyBdE
 	url = https://github.com/rOpenSpain/tidyBdE
-[submodule "tidygeoboundaries"]
-	path = tidygeoboundaries
-	url = https://github.com/dieghernan/tidygeoboundaries
 [submodule "tidyterra"]
 	path = tidyterra
 	url = https://github.com/dieghernan/tidyterra
