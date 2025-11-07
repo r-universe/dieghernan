@@ -6,12 +6,6 @@
     "from": "gitdevr"
   },
   {
-    "package": "allcontributors",
-    "url": "https://github.com/dieghernan/allcontributors",
-    "via": ["pkgdev"],
-    "from": "pkgdev"
-  },
-  {
     "package": "gitdevr",
     "url": "https://github.com/dieghernan/gitdevr",
     "via": ["pkgdev"],
