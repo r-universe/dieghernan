@@ -1,11 +1,5 @@
 [
   {
-    "package": "allcontributors",
-    "url": "https://github.com/dieghernan/allcontributors",
-    "via": ["gitdevr", "pkgdev"],
-    "from": "gitdevr"
-  },
-  {
     "package": "gitdevr",
     "url": "https://github.com/dieghernan/gitdevr",
     "via": ["pkgdev"],
