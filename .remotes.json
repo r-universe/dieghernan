@@ -1,5 +1,11 @@
 [
   {
+    "package": "crancache",
+    "url": "https://github.com/r-lib/crancache",
+    "via": ["pkgdev", "revdepcheck"],
+    "from": "pkgdev"
+  },
+  {
     "package": "gitdevr",
     "url": "https://github.com/dieghernan/gitdevr",
     "via": ["pkgdev"],
@@ -10,5 +16,17 @@
     "url": "https://github.com/dieghernan/pkgdev",
     "via": ["gitdevr"],
     "from": "gitdevr"
+  },
+  {
+    "package": "remotes",
+    "url": "https://github.com/r-lib/remotes",
+    "via": ["pkgdev", "revdepcheck"],
+    "from": "pkgdev"
+  },
+  {
+    "package": "revdepcheck",
+    "url": "https://github.com/r-lib/revdepcheck",
+    "via": ["pkgdev"],
+    "from": "pkgdev"
   }
 ]

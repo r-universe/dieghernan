@@ -17,6 +17,10 @@
 [submodule "climaemet"]
 	path = climaemet
 	url = https://github.com/rOpenSpain/climaemet
+[submodule "crancache"]
+	path = crancache
+	url = https://github.com/r-lib/crancache
+	registered = false
 [submodule "geobounds"]
 	path = geobounds
 	url = https://github.com/dieghernan/geobounds
@@ -41,9 +45,17 @@
 [submodule "rasterpic"]
 	path = rasterpic
 	url = https://github.com/dieghernan/rasterpic
+[submodule "remotes"]
+	path = remotes
+	url = https://github.com/r-lib/remotes
+	registered = false
 [submodule "resmush"]
 	path = resmush
 	url = https://github.com/dieghernan/resmush
+[submodule "revdepcheck"]
+	path = revdepcheck
+	url = https://github.com/r-lib/revdepcheck
+	registered = false
 [submodule "rogtemplate"]
 	path = rogtemplate
 	url = https://github.com/rOpenGov/rogtemplate
