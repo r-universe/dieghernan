@@ -2,6 +2,12 @@
   {
     "package": "crancache",
     "url": "https://github.com/r-lib/crancache",
+    "via": ["gitdevr", "pkgdev", "revdepcheck"],
+    "from": "gitdevr"
+  },
+  {
+    "package": "crancache",
+    "url": "https://github.com/r-lib/crancache",
     "via": ["pkgdev", "revdepcheck"],
     "from": "pkgdev"
   },
@@ -20,8 +26,20 @@
   {
     "package": "remotes",
     "url": "https://github.com/r-lib/remotes",
+    "via": ["gitdevr", "pkgdev", "revdepcheck"],
+    "from": "gitdevr"
+  },
+  {
+    "package": "remotes",
+    "url": "https://github.com/r-lib/remotes",
     "via": ["pkgdev", "revdepcheck"],
     "from": "pkgdev"
+  },
+  {
+    "package": "revdepcheck",
+    "url": "https://github.com/r-lib/revdepcheck",
+    "via": ["gitdevr", "pkgdev"],
+    "from": "gitdevr"
   },
   {
     "package": "revdepcheck",
