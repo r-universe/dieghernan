@@ -50,6 +50,9 @@
 [submodule "rostemplate"]
 	path = rostemplate
 	url = https://github.com/rOpenSpain/rostemplate
+[submodule "rstudiothemes"]
+	path = rstudiothemes
+	url = https://github.com/dieghernan/rstudiothemes
 [submodule "tidyBdE"]
 	path = tidyBdE
 	url = https://github.com/rOpenSpain/tidyBdE
